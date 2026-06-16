@@ -27,7 +27,13 @@ code, build configuration, tests, or CI yet.
 └── CLAUDE.md      # This file
 ```
 
-There are no subdirectories, source files, or dependency manifests yet.
+Documentation lives under `docs/`:
+
+- `docs/agent-skills-simulation.md` — Top 50 automatic-simulation agent skills
+  (domain blueprint for the "AI Bot simulation Lab"), written in Traditional
+  Chinese.
+
+There are no source files or dependency manifests yet.
 
 ## Intended technology direction
 
